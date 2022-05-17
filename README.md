@@ -4,7 +4,7 @@ Allows the user to load a pool of loans and converts the data into readable inpu
 
 ## Description
 
-WeeklyBestEx.Py is a Tkinter GUI python script that is used to automate the tape cracking proccess for our cashflow and credit enhancement models. The application receives a loan pool excel file provided by Agency desk and creates two separate model input files for AD&Co LoanKinetics and Moody's MILAN US Model. The files are then ready to input to the corresponding model to return the outputs needed to determine best execution at the loan level.
+WeeklyBestEx.py is a Tkinter GUI python script that is used to automate the tape cracking proccess for our cashflow and credit enhancement models. The application receives a loan pool excel file provided by Agency desk and creates two separate model input files for AD&Co LoanKinetics and Moody's MILAN US Model. The files are then ready to input to the corresponding model to return the outputs needed to determine best execution at the loan level.
 
 ## Getting Started
 
