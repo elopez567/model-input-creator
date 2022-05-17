@@ -38,8 +38,7 @@ Common Issue: Be cautious to not save over the blank input template files prior 
 
 ## Authors
 
-Emmanuel Lopez
-LinkedIn: (https://www.linkedin.com/in/lopez-emmanuel/)
+Emmanuel Lopez - LinkedIn: (https://www.linkedin.com/in/lopez-emmanuel/)
 
 ## Version History
 
