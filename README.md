@@ -10,8 +10,8 @@ WeeklyBestEx.py is a Tkinter GUI python script that is used to automate the tape
 
 ### Dependencies
 
-Libraries needed: pyodb, numpy, pandas, tkinter, openpyxl, datetime
-Files needed: ADCO Input Template, Moodys Input Template
+- Libraries needed: pyodb, numpy, pandas, tkinter, openpyxl, and datetime
+- Files needed: ADCO Input Template, Moodys Input Template
 
 ### Installing
 
